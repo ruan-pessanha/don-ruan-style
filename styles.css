@@ -1,0 +1,19 @@
+body {
+    background-color: #f8f9fa; /* Cor de fundo cinza claro */
+}
+
+header {
+    background-color: #343a40; /* Cor de fundo escuro para o cabeçalho */
+}
+
+footer {
+    background-color: #343a40; /* Cor de fundo escuro para o rodapé */
+}
+
+h1, h2 {
+    color: #ffffff; /* Cor branca para os títulos */
+}
+
+p {
+    color: #495057; /* Cor cinza escuro para o texto */
+}
